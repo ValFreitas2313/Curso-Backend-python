@@ -21,3 +21,4 @@ media_simples = soma_notas / len(lista)
 print(f"total de Aprovados foi {total_aprovado}")
 print(f"total de Reprovados foi {total_reprovado}")
 print(f"A media da turma foi {media_simples}")
+
